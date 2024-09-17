@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+ 
+}
+
+ul {
+  list-style-type: none;
+}
+
+.magnifying-glass-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+p,
+b {
+  text-align: center;
+  color: red;
+  display: block;
+}
